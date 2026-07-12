@@ -1129,7 +1129,7 @@ export const articles = {
       L([
         'Size positions to a small % of account',
         'Use stop losses on every trade',
-        'Avoid overtrading',
+        'rtrading',
         'Keep a trading journal',
         'Respect daily loss limits'
       ]),
@@ -1163,11 +1163,10 @@ export const articles = {
     content: [
       H('Requirements'),
       L([
-        'Sustained profitability on sim',
+        'Sustained profitability on live avvounts',
         'Clean compliance record',
-        'Completed verification (KYC)',
+        'Completed ',
         'Tax documentation on file',
-        'gg mane '
       ])
     ]
   }
