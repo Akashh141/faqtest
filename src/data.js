@@ -234,7 +234,8 @@ export const articles = {
         'Performance metrics (PnL, drawdown, win rate)',
         'Payout requests and history',
         'Platform connection credentials',
-        'Support and ticket center'
+        'Support and ticket center',
+        'The rule do be tinging'
       ]),
       H('Account Cards'),
       P('Each account is shown as a card with its current balance, drawdown usage, and status. Click an account to see detailed metrics.'),
