@@ -1166,7 +1166,8 @@ export const articles = {
         'Sustained profitability on sim',
         'Clean compliance record',
         'Completed verification (KYC)',
-        'Tax documentation on file'
+        'Tax documentation on file',
+        'gg mane '
       ])
     ]
   }
