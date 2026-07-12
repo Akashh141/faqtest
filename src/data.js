@@ -823,7 +823,7 @@ export const articles = {
       L([
         'Fast processing (often same day)',
         'Low or no fees',
-        'Wide country coverage',
+        'Wide country coverage mann',
         'Supports USD and crap ',
         'btman',
         'ovierawsads'
