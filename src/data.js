@@ -222,7 +222,7 @@ export const articles = {
   },
   'navigating-your-dashboard': {
     slug: 'navigating-your-dashboard',
-    title: 'Navigating Your Dashboard',
+    title: 'Navigating Your Life',
     collection: 'getting-started',
     updated: '2024-12-05',
     excerpt: 'A tour of the trader dashboard and its key features.',
