@@ -813,7 +813,7 @@ export const articles = {
   },
   'rise-payroll': {
     slug: 'rise-payroll',
-    title: 'RISE Payroll',
+    title: 'RISE Payroll Info',
     collection: 'payout-information',
     updated: '2024-12-10',
     excerpt: 'Use RISE to receive your payouts worldwide.',
