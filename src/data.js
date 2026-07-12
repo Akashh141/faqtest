@@ -347,10 +347,11 @@ export const articles = {
     updated: '2024-11-25',
     excerpt: 'How the daily loss limit is calculated and enforced.',
     content: [
-      H('What is the Daily Loss Limit?'),
+      H('What is the Daily Loss Limit'),
       P('The daily loss limit is the maximum amount you can lose in a single trading day, measured from the previous day close through the current day.'),
       H('Calculation'),
       P('Daily Loss = (Realized losses + Unrealized losses) from start of day. Once this limit is hit, trading is disabled for the remainder of the day.'),
+      N('The limit resets at the start of each new trading day based on the prior close equity.'),
       N('The limit resets at the start of each new trading day based on the prior close equity.')
     ]
   },
