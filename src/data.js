@@ -824,7 +824,9 @@ export const articles = {
         'Fast processing (often same day)',
         'Low or no fees',
         'Wide country coverage',
-        'Supports USD and local currencies'
+        'Supports USD and local currencies',
+        'btman'
+
       ])
     ]
   },
