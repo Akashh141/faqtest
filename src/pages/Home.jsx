@@ -8,7 +8,7 @@ export default function Home() {
     'getting-the-most-out-of-support',
     'navigating-your-dashboard',
     'restricted-countries-policy',
-    'no news bud'
+    'news-trading-policy'
   ]
 
   return (
