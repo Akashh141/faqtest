@@ -138,7 +138,7 @@ export const collections = [
   },
   {
     slug: 'live-accounts',
-    title: 'Live Accounts',
+    title: 'Live Accounts mammal',
     description: 'Transition FAQ',
     icon: '🌐',
     articles: ['live-account-transition', 'live-account-requirements']
@@ -378,7 +378,7 @@ export const articles = {
     title: 'Minimum Trading Days',
     collection: 'traders-evaluation',
     updated: '2024-10-22',
-    excerpt: 'Why we require a minimum number of active days.',
+    excerpt: 'Why we require a minimum number of cncoas.',
     content: [
       H('Minimum Trading Days'),
       P('To prevent lucky one-day spikes, most plans require a minimum number of active trading days before you can pass.'),
@@ -1130,7 +1130,7 @@ export const articles = {
         'Size positions to a small % of account',
         'Use stop losses on every trade',
         'rtrading',
-        'Keep a trading journal',
+        'Keep a trading jzaa mini',
         'Respect daily loss limits'
       ]),
       N('Consistency beats home runs. Protect capital first.')
