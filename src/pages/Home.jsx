@@ -15,7 +15,7 @@ export default function Home() {
     <div className="page home">
       <section className="hero">
         <div className="hero-inner">
-          <h1>MyFundedFutures Resource overida222</h1>
+          <h1>MyFundedFutures Resource igotthis</h1>
           <p className="hero-sub">Search our knowledge base or browse by category.</p>
           <SearchBar />
         </div>
