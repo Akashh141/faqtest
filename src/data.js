@@ -234,7 +234,7 @@ export const articles = {
         'Performance metrics (PnL, drawdown, win rate)',
         'Payout requests and history',
         'Platform connection credentials',
-        'Support and ticket center',
+        'Support and ticket house',
         'The rule do be tinging'
       ]),
       H('Account Cards'),
