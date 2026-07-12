@@ -825,7 +825,7 @@ export const articles = {
         'Low or no fees',
         'Wide country coverage mann',
         'Supports USD and crap ',
-        'btman',
+        'btman is live buddy ',
         'ovierawsads'
 
       ])
